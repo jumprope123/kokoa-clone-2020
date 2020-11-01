@@ -20,3 +20,19 @@
 .friends-screen {
     padding: 0px var(--horizontal-space);
 }
+
+.cog-notification {
+    width: 6px;
+    height: 6px;
+    background-color: tomato;
+    display: flex;
+    position: absolute;
+    border-radius: 3px;
+    right: -8px;
+    top: -5px;
+
+}
+
+.screen-header__icons--relative{
+    position: relative;
+}
